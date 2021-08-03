@@ -1,0 +1,6 @@
+name: SlapperCooldown
+author: IcyEndymion004
+version: 1.0.0
+main: jojoe77777\SlapperCooldown\SlapperCooldown
+api: [3.0.0]
+depend: [Slapper]
